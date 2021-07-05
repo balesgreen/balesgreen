@@ -8,6 +8,6 @@ Roman apostolic Catholic, Mark has always been in intimate contact with God and 
 
 Skills!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarktwainSTDLL" alt="My cool logo"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarktwainSTDLL&hide=html,css,javascript&layout=compact&theme=radical" alt="My cool logo"/>
 
  I’m currently learning C, Shell-Script, Js and Assembly.
