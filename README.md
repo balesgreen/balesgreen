@@ -1,4 +1,4 @@
-<img src="https://33.media.tumblr.com/9cebcec899889b81f2adea7b5486fdbb/tumblr_ne8fbcYjVR1ru5h8co1_500.gif" height="150" width="150">
+<img src="https://33.media.tumblr.com/9cebcec899889b81f2adea7b5486fdbb/tumblr_ne8fbcYjVR1ru5h8co1_500.gif" height="220" width="220">
 
 <h1>Welcome to my Profile</h1>
 
