@@ -34,6 +34,9 @@ Skills!
 ![Atom](https://img.shields.io/static/v1?style=for-the-badge&message=Atom&color=66595C&logo=Atom&logoColor=FFFFFF&label=)
 ![Code Review](https://img.shields.io/static/v1?style=for-the-badge&message=Code+Review&color=485A62&logo=Code+Review&logoColor=FFFFFF&label=)
 ![Codacy](https://img.shields.io/static/v1?style=for-the-badge&message=Codacy&color=222F29&logo=Codacy&logoColor=FFFFFF&label=)
+![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=)
+![HackerOne](https://img.shields.io/static/v1?style=for-the-badge&message=HackerOne&color=494649&logo=HackerOne&logoColor=FFFFFF&label=)
+![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarktwainSTDLL&hide=html,css,javascript&layout=compact&theme=radical" alt="My cool logo"/>
