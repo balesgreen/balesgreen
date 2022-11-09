@@ -6,6 +6,7 @@ Skills
 * Reverse Engineering (favorite)
 * Desktop Development
 * Web Development (strongest)
+* Game Hacking (favorite)
 
 Skills!
 
