@@ -16,9 +16,10 @@ Skills!
 
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marktwainstdll&show_icons=true&theme=dracula)
-  </a>
+ <source 
+  srcset="https://github-readme-stats.vercel.app/api?username=marktwainstdll&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dracula)"
+/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarktwainSTDLL&title_color=fff&text_color=fff&bg_color=0,000,141321"> 
   </a>
