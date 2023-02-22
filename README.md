@@ -2,19 +2,15 @@
 
 Skills
 
-* C/C++ (strongest)
+* Web Development Front-End (strongest)
 * Reverse Engineering (favorite)
-* Desktop Development
-* Web Development (strongest)
-* Game Hacking (favorite)
 
 Skills!
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=html&color=222222&logo=html5&logoColor=FFA500&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=css&color=222222&logo=css3&logoColor=61DAFB&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
 
