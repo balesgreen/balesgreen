@@ -15,12 +15,9 @@ Skills!
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
 
-<picture align="center">
- <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=marktwainstdll&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme: dracula)"
-/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=marktwainstdll&show_icons=true" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarktwainSTDLL&title_color=fff&text_color=fff&bg_color=0,000,141321"> 
   </a>
-</picture>
+</p>
