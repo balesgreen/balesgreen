@@ -8,7 +8,7 @@ Skills
 Skills!
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![Node]([https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white))
+![Node](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=html&color=222222&logo=html5&logoColor=FFA500&label=)
