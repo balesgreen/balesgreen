@@ -16,3 +16,4 @@ Skills!
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=css&color=222222&logo=css3&logoColor=61DAFB&label=)
 ![SASS](https://img.shields.io/static/v1?style=for-the-badge&message=sass&color=222222&logo=sass&logoColor=cd6799&label=)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
