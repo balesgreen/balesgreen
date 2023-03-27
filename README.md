@@ -1,9 +1,9 @@
 <h1 style="color:red;">Welcome</h1>
 
-Skills
-
 * Web Development Front-End (strongest)
 * Reverse Engineering (favorite)
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) https://l1za.medium.com/
 
 Skills!
 
