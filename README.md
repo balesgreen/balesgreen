@@ -1,1 +1,6 @@
-N1nja the gentleman huahua
+# N1nja the gentleman
+
+- Binary Exploitation
+- Linux
+- C
+- Pentest
