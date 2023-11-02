@@ -4,7 +4,7 @@ RED TEAM | Pentester | Binary Exploitation | Web Developer
 
 ## Mais sobre mim
 
-<img align="right" width="545" src="https://i.imgur.com/BQYkDoS.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="https://i.imgur.com/BQYkDoS.gif?fit=1281%2C716&ssl=1" />
 
 ```rust
 fn new() -> Whoami {
