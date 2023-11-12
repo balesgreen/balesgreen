@@ -34,7 +34,7 @@ fn new() -> Whoami {
 [twitter]: https://twitter.com/n1njasec
 [youtube]: https://www.youtube.com/user/watchersec/
 [instagram]: https://www.instagram.com/watchersec/
-[linkedin]: [https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/rafael-rom%C3%A3o/)
+[linkedin]: [https://www.linkedin.com/in/https://www.linkedin.com/in/rafael-rom%C3%A3o/
 
 <br>
 
