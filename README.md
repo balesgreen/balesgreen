@@ -1,6 +1,9 @@
 # Sejam bem vindos 👋
 
-RED TEAM | Pentester | Binary Exploitation | Web Developer
+* Bug Hunter
+* Pentester
+* Binary Exploitation
+* Web Developer
 
 ## Linguagens 
 
